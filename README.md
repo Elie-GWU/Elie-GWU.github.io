@@ -1,2 +1,2 @@
 # Elie-GWU.github.io
-DATS visulaization
+Data Visualizations coursework — GWU Data Science
